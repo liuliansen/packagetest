@@ -5,7 +5,7 @@
                 "name": "zt/test",
                 "version": "2.0.0",
                 "dist": {
-                    "url": "https://github.com/liuliansen/packagetest/blob/master/packages/zt-test-2.0.0.zip",
+                    "url": "https://github.com/liuliansen/packagetest/raw/master/packages/zt-test-2.0.0.zip",
                     "type": "zip"
                 },
                 "autoload": {
@@ -35,7 +35,7 @@
                     }
                 },
                 "dist": {
-                    "url": "https://github.com/liuliansen/packagetest/blob/master/packages/zt-test-3.0.0.zip",
+                    "url": "https://github.com/liuliansen/packagetest/raw/master/packages/zt-test-3.0.0.zip",
                     "type": "zip"
                 }
             }
