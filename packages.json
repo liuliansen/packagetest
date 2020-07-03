@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "zt/test": {
+            "2.0.0": {
+                "name": "zt/test",
+                "version": "2.0.0",
+                "dist": {
+                    "url": "https://github.com/liuliansen/packagetest/packages/zt-test-2.0.0.zip",
+                    "type": "zip"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "zt\\test\\": "src/"
+                    }
+                }
+            },
+            "3.0.0": {
+                "name": "zt/test",
+                "version": "3.0.0",
+                "description": "纵腾测试包",
+                "keywords": [
+                    "test",
+                    "zt"
+                ],
+                "license": "MIT",
+                "type": "library",
+                "require": {
+                    "php": ">=7.0.0",
+                    "spatie/laravel-activitylog": "2.8.4"
+                },
+                "require-dev": {},
+                "autoload": {
+                    "psr-4": {
+                        "zt\\test\\": "src/"
+                    }
+                },
+                "dist": {
+                    "url": "https://github.com/liuliansen/packagetest/packages/zt-test-3.0.0.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    }
+}
